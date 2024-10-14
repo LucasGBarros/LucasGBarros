@@ -6,13 +6,17 @@
 
 <div align="center">
   
-🔭 Eu sou desenvolvedor Back-end e Front-end especializado em automações de teste! 
-Automações de testes com Cypress + Gherkin, Playwright, Python + Gerkhin
+🔭 Eu sou desenvolvedor Back-end e Front-end especializado em automações de teste com frameworks voltado para Web, Back-end e Front-end!
 
+🌱 Também estou estudando Java, desenvolver API's, aprimorando Playwright, linguagem GO.
 
-🌱 Também estou estudando Java, desenvolver API's, aprimorando Playwright
-
-💬 Sou entusiasta no desenvolvimento de testes com frameworks.
+💬 Sou entusiasta no desenvolvimento de testes com frameworks e testes automatizados com API.
 
 😄 Pronomes: Ele/Dele.
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucas-gbarros/">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasGBarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGBarros&layout=compact&langs_count=7&theme=dark"/>
 </div>
