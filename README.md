@@ -36,3 +36,10 @@
   <img align="center" alt="Postgre" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
   
   </div>
+
+</div>
+
+  <p></p>
+  <div align="center"> 
+  <a href="https://www.linkedin.com/in/lucas-gbarros/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
