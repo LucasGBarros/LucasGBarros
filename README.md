@@ -17,6 +17,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-gbarros/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasGBarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGBarros&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasGBArros&theme=dark&show_icons=true&hide_border=true&count_private=true)"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasGBArros&theme=dark&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGBArros&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
