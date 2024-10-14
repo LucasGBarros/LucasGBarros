@@ -7,7 +7,8 @@
 <div align="center">
   
 🔭 Eu sou desenvolvedor Back-end e Front-end especializado em automações de teste! 
-<li>automações de testes com Cypress + Gherkin, Playwright, Python + Gerkhin</li>
+Automações de testes com Cypress + Gherkin, Playwright, Python + Gerkhin
+
 
 🌱 Também estou estudando Java, desenvolver API's, aprimorando Playwright
 
