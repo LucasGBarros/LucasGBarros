@@ -17,7 +17,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-gbarros/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasGBArros&theme=dark&show_icons=true&hide_border=true&count_private=true)"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasGBArros&theme=dark&hide_border=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGBArros&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
@@ -41,4 +40,8 @@
   <p></p>
   <div align="center"> 
   <a href="https://www.linkedin.com/in/lucas-gbarros/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:lucasgomesdebarros99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+  
 </div>
