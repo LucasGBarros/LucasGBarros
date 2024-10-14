@@ -12,7 +12,6 @@
 
 💬 Sou entusiasta no desenvolvimento de testes com frameworks e testes automatizados com API.
 
-😄 Pronomes: Ele/Dele.
 </div>
 
 <div align="center">
