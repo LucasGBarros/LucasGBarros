@@ -8,7 +8,7 @@
   
 🔭 Eu sou desenvolvedor Back-end e Front-end especializado em automações de teste com frameworks voltado para Web, Back-end e Front-end!
 
-🌱 Também estou estudando Java, desenvolver API's, aprimorando Playwright, linguagem GO.
+🌱 Também estou estudando JavaScript, desenvolver API's, aprimorando Playwright.
 
 💬 Sou entusiasta no desenvolvimento de testes com frameworks e testes automatizados com API.
 
@@ -32,16 +32,13 @@
   <img align="center" alt="NodeJS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
   <img align="center" alt="Postgre" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
-  
   </div>
 
 </div>
-
   <p></p>
   <div align="center"> 
   <a href="https://www.linkedin.com/in/lucas-gbarros/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:lucasgomesdebarros99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-  
 </div>
